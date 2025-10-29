@@ -255,6 +255,10 @@ main {
     .hamburger {
         display: block;
     }
+
+    .pdf-preview {
+        max-width: 100%;
+    }
 }
 
 /* Contenitore del PDF */
@@ -297,4 +301,5 @@ main {
   width: 100%;
   max-width: 500px;
   height: auto;
+
 }
